@@ -43,10 +43,10 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
             <div class="cf-expandable-error-info hidden">
                <p class="cf-error-copy-description">Provide the site owner this information.</p>
                <button class="cf-click-to-copy-btn" id="click-to-copy-btn" title="Click to copy" type="button">
-<div class="cf-error-wrapper" id="error-details"><p class="cf-error-details-endpoint">I got an error when visiting www.classcentral.com//webpack/analytics.2edefc668ab4db842c41.js.</p>
+<div class="cf-error-wrapper" id="error-details"><p class="cf-error-details-endpoint">I got an error when visiting www.classcentral.com//webpack/4826.ea570b7100e8c5e53e11.js.</p>
 
 <p>Error code: 1020</p>
-<p>Ray ID: 79d68b32fc870552</p>
+<p>Ray ID: 79d68b2e48f04f8d</p>
 <p>Country: KE</p>
 <p>Data center: jnb01</p>
 <p>IP: 154.159.237.183</p>
