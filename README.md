@@ -1,2 +1,2 @@
-# class-central.io
-A scraping project
+# ValhallaScrapeTrans
+A scraping and Translate project
