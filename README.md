@@ -9,6 +9,8 @@ This project contains two Python scripts, scrap.py and main.py, that allow users
     Beautiful Soup 4
     Selenium
     Chrome Web Driver
+    PyQt5
+    Requests library
     
 
 ## Installation
@@ -44,6 +46,24 @@ main.py allows users to translate text scraped from a website into multiple lang
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit/)
+
+
+
+## Contributing
+
+Thank you for your interest in contributing to the project! To contribute, please follow these steps:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your contribution.
+3. Make your desired changes and improvements.
+4. Test your changes to ensure they work as intended.
+5. Commit and push your changes to your forked repository.
+6. Submit a pull request, describing the changes you made and their purpose.
+
+Please note that all contributions will be reviewed before merging them into the main repository. Make sure to adhere to the project's coding conventions and guidelines.
+
+If you have any questions or need further assistance, please feel free to  or [contact me](https://github.com/Leli254).
+
 
 
 ## Credits
